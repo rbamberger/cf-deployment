@@ -1,5 +1,5 @@
 ---
-name: cf
+name: oscf
 manifest_version: v48.6.0
 update:
   canaries: 1
